@@ -1,4 +1,4 @@
-def wordSmash():
+def wordSmash(a,b):
 
     print(a * b)
 
