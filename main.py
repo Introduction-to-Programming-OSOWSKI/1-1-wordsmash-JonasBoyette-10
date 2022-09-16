@@ -1,5 +1,5 @@
-def wordSmash(a,b):
+def wordSmash(a , b):
 
-    return(a * b)
+    return (a + b)
 
-wordSmash("cat" , "Dog")
+print (wordSmash("cat" , "Dog"))
